@@ -5,4 +5,4 @@ function miFuncionFuncionando(palabra = "PALABRA", numero = 5){
   }
 }
 
-miFuncionFuncionando("RUR", 20)
+miFuncionFuncionando("ROR", 20)
